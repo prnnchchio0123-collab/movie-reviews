@@ -44,7 +44,7 @@ export default function Header({ onSearch, onGenreFilter, genres = [], activeGen
             letterSpacing: '-0.02em',
             lineHeight: 1,
           }}>
-            Reel
+            Rewatch
           </span>
           <span style={{
             fontFamily: 'var(--font-display)',
@@ -54,7 +54,7 @@ export default function Header({ onSearch, onGenreFilter, genres = [], activeGen
             letterSpacing: '-0.02em',
             lineHeight: 1,
           }}>
-            Log
+            Review
           </span>
         </Link>
 
